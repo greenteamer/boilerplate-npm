@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Aleksander Korovkin",
   "description": "A freecodecamp backend certification project",
+  "keywords": [
+    "certification",
+    "freecodecamp",
+    "node"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
