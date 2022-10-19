@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Aleksander Korovkin",
+  "description": "A freecodecamp backend certification project",
   "dependencies": {
     "express": "^4.14.0"
   },
